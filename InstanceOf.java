@@ -2,7 +2,7 @@ public class InstanceOf {
     public static void main(String[] args) {
 
 
-        String str1, str2;
+        String str1, str2,str5;
         str1 = str2 = "jakiś tekst";
 
         String name = str1.getClass().getName();
