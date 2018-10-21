@@ -7,3 +7,5 @@ Testowe repozytorium
 ### Ważne
 * raz
 * dwa
+
+### Uwaga: dodano InstanceOf.java!!!!
